@@ -1,6 +1,6 @@
-Welcome to my github.
+#Welcome to my github.
 
-I am studying to become 
+##I am studying to become 
 a front-end developer.
 
 - 👐🏻 HTML5 CSS3 Javascript 
